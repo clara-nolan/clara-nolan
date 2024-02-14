@@ -4,8 +4,9 @@
 - 🌱 I'm learning: game development, full stack development, DXR, and and procedural generation
 - 📫 How to reach me: nolan.clara.us@gmail.com
 
-Thanks for visiting my page! If you would like to visit my portfolio or other websites I've developed, feel free to visit the links underneath my bio.
-[![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=clara-nolan)](https://github.com/clara-nolan/github-readme-stats)
+Thanks for visiting my page! If you would like to visit my portfolio or other websites I've developed, feel free to visit the links underneath my bio. <br>
+
+![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=clara-nolan&show_icons=true&theme=dracula) <br>
 
 
 
