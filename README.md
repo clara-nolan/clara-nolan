@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi there 👋, I’m Clara! I'm studying Design and Computer Science with a concentration in computer graphics.
+
+🤍 I'm passionate about: web development, 3D modeling, UI/UX, making shaders, and anything related to creative coding.
+🌱 I'm learning: game development, full stack development, DXR, and and procedural generation
+📫 How to reach me: nolan.clara.us@gmail.com
+
+
+
+
+
 
 <!--
 **clara-nolan/clara-nolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
