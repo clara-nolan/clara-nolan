@@ -5,8 +5,7 @@
 - 📫 How to reach me: nolan.clara.us@gmail.com
 
 Thanks for visiting my page! If you would like to visit my portfolio or other websites I've developed, feel free to visit the links underneath my bio. <br>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clara-nolan&theme=dracula&hide=contribs,issues&show_icons=true&hide_border=true" alt="Clara's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clara-nolan&theme=dracula&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clara-nolan&theme=dracula&layout=compact&hide_border=true" /></a> 
 
 
 
