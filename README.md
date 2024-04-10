@@ -1,5 +1,5 @@
 # Hi there 👋, I’m Clara! 
-# I'm studying Design and Computer Science with a concentration in computer graphics.
+# I'm studying Design and Computer Science with a concentration in Computer Graphics.
 
 - 🤍 I'm passionate about: web development, 3D modeling, UI/UX, making shaders, and anything related to creative coding.
 - 🌱 I'm learning: game development, full stack development, DXR, and and procedural generation
