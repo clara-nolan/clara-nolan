@@ -1,5 +1,5 @@
 # Hi there 👋, I’m Clara! 
-# I'm studying Design and Computer Science with a concentration in Computer Graphics.
+# I'm a Creative Technologist & Designer
 
 - 🤍 I'm passionate about: game design & development, technical art, computer graphics education, and anything related to creative coding.
 - 🌱 Current Explorations: USD, VFX, and procedural generation
